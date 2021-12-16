@@ -1,0 +1,109 @@
+{
+    "player_data": [
+        {
+            "player_name": "Amith Kumar",
+            "venue_name": "First Academy venue",
+            "venue_address": {
+                "address_line_1": "value",
+                "address_line_2": "value",
+                "city": "city",
+                "state": "State",
+                "pin": "pin code"
+            },
+            "age":10,
+            "sex":"male",
+            "is_lefty":true,
+            "height": 5,
+            "weight":35,
+            "academy_rank":1,
+            "state_rank":15,
+            "start_date":"1621141085",
+            "end_date":"present",
+            "is_active":true
+        },
+        {
+            "player_name": "Iaz Kumar",
+            "venue_name": "First Academy venue",
+            "venue_address": {
+                "address_line_1": "value",
+                "address_line_2": "value",
+                "city": "city",
+                "state": "State",
+                "pin": "pin code"
+            },
+            "age":20,
+            "sex":"male",
+            "is_lefty":true,
+            "height": 9,
+            "weight":65,
+            "academy_rank":10,
+            "state_rank":195,
+            "start_date":"1621141085",
+            "end_date":"present",
+            "is_active":true
+        },
+        {
+            "player_name": "Hank Kumar",
+            "venue_name": "Old Academy venue",
+            "venue_address": {
+                "address_line_1": "value",
+                "address_line_2": "value",
+                "city": "city",
+                "state": "State",
+                "pin": "pin code"
+            },
+            "age":16,
+            "sex":"male",
+            "is_lefty":false,
+            "height": 9,
+            "weight":50,
+            "academy_rank":73,
+            "state_rank":985,
+            "start_date":"1621141085",
+            "end_date":"present",
+            "is_active":true
+        },
+        {
+            "player_name": "Liz Kumar",
+            "venue_name": "First Academy venue",
+            "venue_address": {
+                "address_line_1": "value",
+                "address_line_2": "value",
+                "city": "city",
+                "state": "State",
+                "pin": "pin code"
+            },
+            "age":14,
+            "sex":"female",
+            "is_lefty":true,
+            "height": 7,
+            "weight":50,
+            "academy_rank":32,
+            "state_rank":500,
+            "start_date":"1621141085",
+            "end_date":"1621141085",
+            "is_active":false
+        },
+        {
+            "player_name": "Elain",
+            "venue_name": "New Academy venue",
+            "venue_address": {
+                "address_line_1": "value",
+                "address_line_2": "value",
+                "city": "city",
+                "state": "State",
+                "pin": "pin code"
+            },
+            "age":11,
+            "sex":"female",
+            "is_lefty":false,
+            "height": 5.5,
+            "weight":40,
+            "academy_rank":16,
+            "state_rank":1503,
+            "start_date":"1621141085",
+            "end_date":"1621573085",
+            "is_active":false
+        }
+    ]
+}

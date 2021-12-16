@@ -1,0 +1,51 @@
+{
+    "recent_activity":[
+        {
+            "date":"1621141085",
+            "activity":"Video Uploaded",
+            "player_name":"Amith",
+            "length/size":"0:10:30/0.52GB"
+        },
+        {
+            "date":"1621573085",
+            "activity":"Transcation Complete",
+            "academy_name":"First Academy",
+            "payment_for":"First Coupon Code"
+        },
+        {
+            "date":"1621141085",
+            "activity":"Transcation Error",
+            "academy_name":"First Academy",
+            "payment_for":"Activate Account"
+        },
+        {
+            "date":"1621141085",
+            "activity":"Video Recorded",
+            "device_id":"NV-Jet FA-01",
+            "length/size":"1:50:00/1.5GB"
+        }
+    ],
+    "video_upload_details":[
+        {
+            "activity":"coaching",
+            "device_id":"NV-Jet FA-01",
+            "length/size":"1:10:00/0.5GB",
+            "is_uploaded":true,
+            "uploaded_date_time":"1621141085"  
+        },
+        {
+            "activity":"game",
+            "device_id":"NV-Jet FA-01",
+            "length/size":"1:10:00/0.5GB",
+            "is_uploaded":false,
+            "uploaded_date_time":null  
+        },
+        {
+            "activity":"shadows",
+            "device_id":"NV-Jet FA-01",
+            "length/size":"0:50:05/1.5GB",
+            "is_uploaded":false,
+            "uploaded_date_time":null
+        }
+    ]
+}

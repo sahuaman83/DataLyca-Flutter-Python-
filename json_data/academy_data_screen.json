@@ -1,0 +1,31 @@
+{
+    "academy_data":[
+        {
+            "name":"First Academy",
+            "address":{
+                "address_line_1":"Address line 1",
+                "address_line_2":"Address line 2",
+                "city":"city",
+                "state":"state",
+                "pin":757575
+            },
+            "website":"www.website.com",
+            "start_date":"1621746461",
+            "is_active":true,
+            "end_date":null,
+            "email_id":"firstacademy@gmail.com",
+            "add_coach":[
+                {
+                    "name":"head coach",
+                    "mobile":9090787856,
+                    "venue":"academy venue 1"
+                },
+                {
+                    "name":"sub coach",
+                    "mobile":7878909067,
+                    "venue":"academy venue 2"
+                }
+            ]
+        }
+    ]
+}

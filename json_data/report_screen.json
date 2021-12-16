@@ -1,0 +1,106 @@
+{
+    "transcation_data":[
+        {
+            "date":"1621746642",
+            "is_credit":true,
+            "transaction_amount":8000,
+            "end_amount":10000,
+            "activity":"Recharge",
+            "player_name":"Amith Kumar",
+            "player_category":"U-11",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621573085",
+            "is_credit":true,
+            "transaction_amount":10000,
+            "end_amount":0,
+            "activity":"Yearly Subscription",
+            "player_name":"Ben Titus",
+            "player_category":"U-12",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621400285",
+            "is_credit":false,
+            "transaction_amount":600,
+            "end_amount":7000,
+            "activity":"Game",
+            "player_name":"Clad Darius",
+            "player_category":"U-13",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621141085",
+            "is_credit":false,
+            "transaction_amount":300,
+            "end_amount":16000,
+            "activity":"Coaching",
+            "player_name":"Dhanush T.",
+            "player_category":"U-14",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621141085",
+            "is_credit":false,
+            "transaction_amount":1000,
+            "end_amount":2000,
+            "activity":"Shadows",
+            "player_name":"Amith Kumar",
+            "player_category":"U-11",
+            "is_waived_off":false
+        }
+    ],
+    "players_data":[
+        {
+            "date":"1621141085",
+            "is_credit":false,
+            "transaction_amount":1500,
+            "end_amount":8500,
+            "activity":"Game",
+            "player_name":"Elain ",
+            "player_category":"U-17",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621746642",
+            "is_credit":false,
+            "transaction_amount":500,
+            "end_amount":9800,
+            "activity":"Shadows",
+            "player_name":"Flair Suiz",
+            "player_category":"U-22",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621573085",
+            "is_credit":true,
+            "transaction_amount":1500,
+            "end_amount":10000,
+            "activity":"Recharge",
+            "player_name":"Gration Grad",
+            "player_category":"U-15",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621400285",
+            "is_credit":false,
+            "transaction_amount":1000,
+            "end_amount":8900,
+            "activity":"Coaching",
+            "player_name":"Hernandez",
+            "player_category":"U-16",
+            "is_waived_off":false
+        },
+        {
+            "date":"1621141085",
+            "is_credit":false,
+            "transaction_amount":3000,
+            "end_amount":0,
+            "activity":"Game",
+            "player_name":"Iaz Illean",
+            "player_category":"U-19",
+            "is_waived_off":false
+        }
+    ]
+}

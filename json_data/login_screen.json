@@ -1,0 +1,38 @@
+{
+    "login":[
+        {
+            "mobile_number":"8660403619",
+            "password":"mysecurepassword"
+        },
+        {
+            "mobile_number":"1234567890",
+            "password":"wrongusernamepasswod"
+        },
+        {
+            "mobile_number":"8660403619",
+            "password":"wrongpassword"
+        }
+    ],
+    "change_password":[
+        {
+
+        }
+    ],
+    "forgot_password":[
+        {
+            "mobile_number":"8660403619",
+            "otp":"123456",
+            "new_password":"newsecurepassword"
+        },
+        {
+            "mobile_number":"8660403619",
+            "otp":"000000",
+            "new_password":"wrongotpassword"
+        },
+        {
+            "mobile_number":"1234567890",
+            "otp":"123456",
+            "new_password":"nootpsentwrongmobile"
+        }
+    ]
+}

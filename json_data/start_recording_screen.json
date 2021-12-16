@@ -1,0 +1,42 @@
+{
+    "start_recording_activity": [
+        {
+            "activity": [
+                "Coaching",
+                "Shadows",
+                "Training",
+                "Game"
+            ],
+            "no_of_points":21,
+            "no_of_sets":3,
+            "golden_point_trigger":29,
+            "no_of_sides":6,
+            "detailed_analysis":true,
+            "player_select": [
+                "Amith",
+                "Iaz",
+                "Tenz"
+            ]
+        }
+    ],
+    "player_select_details": [
+        {
+            "name": "Amith",
+            "mobile": 9898767654,
+            "lefty": true,
+            "height": 8
+        },
+        {
+            "name": "Iaz",
+            "mobile": 5656787890,
+            "lefty": false,
+            "height": 6
+        },
+        {
+            "name": "Tenz",
+            "mobile": 7878454523,
+            "lefty": false,
+            "height": 7
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "device_info":[
+        {
+            "device_id":"NV-Jet FA-01",
+            "log_time":"2021-05-19 15:30:00",
+            "sys_param":{
+                "cpu":80,
+                "gpu":40,
+                "ram":1.5,
+                "battery":90
+            },
+            "last_activity":"Game",
+            "last_error":null
+        },
+        {
+            "device_id":"NV-Jet FA-01",
+            "log_time":"2021-05-19 13:30:00",
+            "sys_param":{
+                "cpu":20,
+                "gpu":20,
+                "ram":1,
+                "battery":60
+            },
+            "last_activity":"Coaching",
+            "last_error":"Recording already in Progress"
+        },
+        {
+            "device_id":"NV-Jet FA-02",
+            "log_time":"2021-05-19 20:30:00",
+            "sys_param":{
+                "cpu":90,
+                "gpu":80,
+                "ram":2,
+                "battery":40
+            },
+            "last_activity":"shadows",
+            "last_error":"Device Disconneted"
+        }
+    ]
+}

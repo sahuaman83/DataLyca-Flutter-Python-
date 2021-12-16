@@ -1,0 +1,18 @@
+{
+    "player_data_new":[
+        {
+            "name":"Suzrez Tenz",
+            "mobile":9898343434,
+            "email_id":"suarex@gmail.com",
+            "dob":"2005-06-15",
+            "height":8,
+            "is_lefty":false,
+            "weight":50,
+            "sex":"male",
+            "start_date":"1621141085",
+            "is_active":true,
+            "end_date":"1621573085",
+            "state_rank":690
+        }
+    ]
+}
